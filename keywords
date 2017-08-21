@@ -1,0 +1,36 @@
+list of common programming languages, frameworks, technology buzzwords, etc... for indeed.com but can also be converted to work with other search engines just use the find/replace function of your ide to replace 'or' with whatever delimiter your job search engine uses.
+
+I tried to remove words that are used in other fields besides programming, IT or web development for example I removed assembly from the list.
+
+(java or objective-c or c++ or c# or php or vb.net or python or javascript or sql or f# or perl or ruby or delphi or pascal or lisp or matlab or scala or jquery or ajax or html or css or html5 or css3 or xhtml or algorithm or cms or bios or ide or oracle or cisco or ccna or dom or jit or ping or defrag or traceroute or ecmascript or coldfusion or linux or unix or servlets or jsp or django or drupal or wordpress or apache or mysql)
+
+//newer
+
+The other paste is a list of common programming words, common languages, common libraries etc...
+To be used as keywords used in a indeed.com search but you could easily modify it to suit other job search sites using a IDE's find/replace function.
+This list is just random keywords I came up with.
+
+(autohotkey or cobal or eclipse or ccvp or ccnp or comptia or lua or ahk or bash or algol or ada or fortran or jvm or hypertext or vba or JDE or J2EE or debugging or wan or lan or https or ip or tcp or usb or arduino or coffeescript or gnu or ubuntu or gui or prolog or ie or ios)
+
+
+//newer still
+
+
+occupation specific keywords for job search sites:
+web- (django or html or html5 or css or css3 or javascript or php or drupal or cms or xhtml or apache or sql or mysql or sqlite or ror or asp.net or jquery or wordpress or dom or ajax or joomla or blog)
+ 
+desktop- (c++ or c or java or c# or python or ruby or perl or delphi or golang or matlab or fortran or haskell or lua or objective-c or f# or vb.net or vba or .net or ios or autohotkey or ahk or git or mercurial or eclipse or ide or lisp or scala or jit or github or xml)
+ 
+IT-  (bios or unix or linux or ubuntu or ping or traceroute or mainframe or ascii or hacker or hack or ios or kernel or mac or voip or os or osx or subsystems or nfs)
+ 
+network- (ccna or ccnp or comptia or wan or cisco or http or https or udp or tcp or ack or bandwidth or gbps or mbps or nat or vmware)
+
+
+//newest
+
+some more occupation specific keywords for job search sites:
+game- (actionscript or unrealscript or lua or autohotkey or ahk or videogame or shooter or fps or opengl or directx  or flash or ogre3d or love2d or slick2d or unity or xbox or xbox360 or ps3 or ps4 or wii or unreal or kismet or multiplayer)
+ 
+mobile- (ios or android or iphone or apps or mobile or bluetooth)
+ 
+low level- (x86 or firmware or compsci or simb or risc)
